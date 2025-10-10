@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-URL="http://127.0.0.1:8039/get"
+URL="http://127.0.0.1:8037/get"
 TMP_DIR="${HOME}/.local/tmp/run_script"
 mkdir -p "$TMP_DIR"
 
